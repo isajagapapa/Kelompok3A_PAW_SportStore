@@ -1,0 +1,15 @@
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\appsettings.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\appsettings.production.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\bower.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\SportsStore.deps.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\SportsStore.runtimeconfig.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\SportsStore.runtimeconfig.dev.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\SportsStore.dll
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Release\netcoreapp2.0\win-x64\SportsStore.pdb
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.AssemblyInfo.cs
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.dll
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.pdb
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Release\netcoreapp2.0\win-x64\SportsStore.genruntimeconfig.cache

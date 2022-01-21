@@ -1,0 +1,32 @@
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.production.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.AssemblyReference.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Kuliah\SEMESTER 5\PAW\12_15\11 - SportsStore - Admin\pro-asp.net-core-mvc-2-master\12 - SportsStore - Security & Deployment\SportsStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\appsettings.production.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\bower.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.genruntimeconfig.cache
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.AssemblyReference.cache

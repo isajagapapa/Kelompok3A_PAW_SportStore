@@ -1,0 +1,20 @@
+D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=SportsStore
+--content-root=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Account\Login.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Admin\Edit.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Admin\Index.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Cart\Index.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Error\Error.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Order\Checkout.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Order\Completed.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Order\List.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Product\List.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Shared\Components\CartSummary\Default.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Shared\Components\NavigationMenu\Default.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Shared\ProductSummary.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Shared\_AdminLayout.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\Shared\_Layout.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\_ViewImports.cshtml
+--file=D:\Kuliah\SEMESTER 5\PAW\12_15\SportStore\SportsStore\Views\_ViewStart.cshtml
